@@ -1,4 +1,5 @@
 //using the switch statement
+const light = 'green'
 switch (light){
     case'green':
     console.log('Drive');
