@@ -1,0 +1,13 @@
+var light = "green"
+if(light !== "green"){
+    console.log("Drive")
+}
+else if(light == "Orange"){
+    console.log("Get ready")
+}
+else if(light == "red"){
+    console.log("Stop")
+}
+else{
+    console.log("The sign is either green, red or orange")
+}
