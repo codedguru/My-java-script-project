@@ -1,0 +1,27 @@
+var day = "tuesday"
+switch (day){
+    case 'monday':
+    console.log('Go to work')
+    break;
+    case 'tuesday':
+    console.log('Attend a confrence')
+    break;
+    case 'wednesday':
+    console.log('Visit the meuseum')
+    break;
+    case 'thursday':
+    console.log('Go for shopping')
+    break;
+    case 'friday':
+    console.log('Go to the studio')
+    break;
+    case 'saturday':
+    console.log('Visit the libraury')
+    break;
+    case 'sunday':
+    console.log('Go to church')
+    break;
+    default:
+    console.log('There is no such day')
+    break;
+}
