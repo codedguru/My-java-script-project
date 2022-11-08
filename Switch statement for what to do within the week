@@ -1,4 +1,4 @@
-var day = "tuesday"
+var day = "wednesday"
 switch (day){
     case 'monday':
     console.log('Go to work')
